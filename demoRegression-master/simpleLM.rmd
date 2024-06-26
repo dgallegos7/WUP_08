@@ -53,7 +53,8 @@ Adjusted R-Squared: 0.9262 RSE:33.08
 Neck
 Adjusted R-squared: 0.87 RSE: 43.91
 
-
+Length
+Adjusted R-squared:  0.7423 RSE: 61.83
 
 
 
